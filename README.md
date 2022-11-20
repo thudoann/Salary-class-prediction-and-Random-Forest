@@ -1,4 +1,4 @@
-# Salary-class-prediction-and-Random-Forest
+# Salary class prediction and Random Forest
 
 In this project we 
 
